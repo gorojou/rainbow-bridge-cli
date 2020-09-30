@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/near/rainbow-bridge-cli)
+
 <div align="center">
 
   <h1><code>Rainbow Bridge CLI</code></h1>
