@@ -108,7 +108,7 @@ async function testDeployToken() {
 
   // use default ERC20 ABI
   const abiPath = RainbowConfig.getParam('eth-erc20-abi-path')
-  const binPath = './MyERC20.full.bin'
+  const binPath = './ERC20.full.bin'
 
   const tokenContract = new web3.eth.Contract(
     JSON.parse(fs.readFileSync(abiPath))

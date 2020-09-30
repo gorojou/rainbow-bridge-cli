@@ -1,0 +1,17 @@
+{
+    "nearNetworkId": "testnet",
+    "nearNodeUrl": "https://rpc.testnet.near.org/",
+    "ethNodeUrl": "https://rinkeby.infura.io/v3/f627cd6c11584fc0919e904becff4824",
+    "nearMasterAccount": "juan.testnet",
+    "nearMasterSk": "GHA86UXSvnJSZNGLZUkjrfzVgewodUsEXt9xkVuuJZCG",
+    "nearClientAccount": "juan",
+    "nearProverAccount": "juan",
+    "nearClientTrustedSigner": "juan.testnet",
+    "ethMasterSk": "0x07865c6e87b9f70255377e024ace6630c1eaa37f",
+    "ethEd25519Address": "0x9003342d15B21b4C42e1702447fE2f39FfAF55C2",
+    "ethClientAddress": "0xF721c979db97413AA9D0F91ad531FaBF769bb09C",
+    "ethProverAddress": "0xc5D62d66B8650E6242D9936c7e50E959BA0F9E37",
+    "ethErc20Address": "0xd9145cce52d386f254917e481eb44e9943f39138",
+    "ethLockerAddress": "0xd9145cce52d386f254917e481eb44e9943f39138",
+    "nearFunTokenAccount": "mintablefuntoken11"
+}
